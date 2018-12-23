@@ -1,0 +1,13 @@
+{
+  "Incident": "Theft",
+  "SortCode": "99-99-99",
+  "Subject": "SIR 29/11/18",
+  "Header": "E123456789",
+  "Sender": "abruce1711@gmail.com",
+  "Body": "99-99-99\r\nTheft"
+}-{
+  "Subject": "hello world",
+  "Header": "E123456789",
+  "Sender": "testemail@test.com",
+  "Body": "this is a test, here is a url <URL Quarantined>"
+}-

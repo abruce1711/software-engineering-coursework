@@ -1,0 +1,13 @@
+{
+  "Header": "T123456789",
+  "Sender": "@user",
+  "Body": "#test @mention"
+}-{
+  "Header": "T123456789",
+  "Sender": "@user",
+  "Body": "test lol"
+}-{
+  "Header": "T123456789",
+  "Sender": "@abruce",
+  "Body": "another test rotfl"
+}-

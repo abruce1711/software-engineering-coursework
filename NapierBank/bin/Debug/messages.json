@@ -1,0 +1,33 @@
+{
+  "PhoneNumber": "5",
+  "Header": "S123456789",
+  "Body": "This is a test LOL <Laughing out loud>"
+}{
+  "PhoneNumber": "70",
+  "Header": "S987654321",
+  "Body": "This is a second message ROTFL <Rolling on the floor laughing>"
+}{
+  "PhoneNumber": "5",
+  "Header": "S123456789",
+  "Body": ""
+}{
+  "PhoneNumber": "+44 7546982443",
+  "Header": "S123456789",
+  "Body": "test"
+}{
+  "PhoneNumber": "+447546982443",
+  "Header": "S123456789",
+  "Body": "test 2"
+}{
+  "PhoneNumber": "447546982443",
+  "Header": "S123456789",
+  "Body": "test 2"
+}{
+  "PhoneNumber": "+12 3456789123",
+  "Header": "S123456789",
+  "Body": "test 3"
+}{
+  "PhoneNumber": "+44 7546982443",
+  "Header": "S123456789",
+  "Body": "asdfdsa"
+}

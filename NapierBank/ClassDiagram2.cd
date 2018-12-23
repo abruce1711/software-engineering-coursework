@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NapierBank.Models.EmailModel">
+    <Position X="1" Y="1.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQBAAAAAAoAAAAAAAAAAAAAAACABAAAAAAA=</HashCode>
+      <FileName>Models\EmailModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Models.Info">
+    <Position X="10.25" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAABIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Models.Message">
+    <Position X="6" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAIEAA=</HashCode>
+      <FileName>Models\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Models.SIR">
+    <Position X="1.5" Y="6" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Models\SIR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Models.SMSModel">
+    <Position X="9.5" Y="1.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SMSModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Models.TSA">
+    <Position X="7.5" Y="6" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABAAAAAAAQ=</HashCode>
+      <FileName>Models\TSA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Models.TweetModel">
+    <Position X="6" Y="3.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCgAAAAAAAACAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TweetModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
